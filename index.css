@@ -46,3 +46,34 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+body {
+	font-family: 'Roboto Mono', monospace;	
+}
+
+h1 {
+	font-family: 'Chelsea Market', cursive;
+}
+
+a.plan-visit {
+	background-color: #ff764e;
+	color: white;
+	text-decoration: none;
+}
+
+a.about-park {
+	background-color: #5ED3EB;
+	color: white;
+	text-decoration: none;
+}
+
+a.get-involved {
+	background-color: #FFCD69;
+	color: white;
+	text-decoration: none;
+}
+
+.about p {
+	background-color: #DDB9A3;
+	color: white;
+}
