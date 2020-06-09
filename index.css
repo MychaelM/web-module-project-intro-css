@@ -55,6 +55,14 @@ h1 {
 	font-family: 'Chelsea Market', cursive;
 }
 
+span {
+	font-weight: bold;
+}
+
+footer {
+	background-color: #F9E7DC;
+}
+
 a.plan-visit {
 	background-color: #ff764e;
 	color: white;
