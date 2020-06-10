@@ -63,6 +63,12 @@ footer {
 	background-color: #F9E7DC;
 }
 
+nav {
+	display: flex;
+	justify-content: space-around;
+	margin: 20px 0;
+}
+
 a {
 	border-radius: 10px;
 	display: inline-block;
@@ -106,4 +112,9 @@ a.get-involved {
 #header-txt {
 	border: 5px solid black;
 	display: inline-block;
+}
+
+#header-txt h1 {
+	font-size: 3.5rem;
+	padding 10px;
 }
