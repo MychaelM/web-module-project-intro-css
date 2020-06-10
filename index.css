@@ -131,5 +131,20 @@ a.get-involved {
 
 .about {
 	line-height: 1.2;
-	margin: 0 50px;
+	margin: 5px 50px;
+}
+
+.about p {
+	padding: 5px;
+}
+
+.middle {
+	margin: 0 auto;
+	text-align: center;
+	width: 30%;
+}
+
+.middle img {
+	height: 200px;
+	width: 150px;
 }
