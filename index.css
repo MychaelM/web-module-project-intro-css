@@ -65,8 +65,9 @@ footer {
 
 nav {
 	display: flex;
-	justify-content: space-around;
-	margin: 20px 0;
+	justify-content: space-between;
+	margin: 0 auto;
+	width: 75%;
 }
 
 a {
@@ -124,22 +125,22 @@ a.get-involved {
 }
 
 .container {
-	margin: 30px 50px;
-	height: 300px;
-	width: auto;
+	margin: 0 auto;
+	width: 75%;
 }
 
 .about {
-	line-height: 1.2;
+	line-height: 1.5;
 	margin: 5px 50px;
 }
 
 .about p {
-	padding: 5px;
+	padding: 10px 15px;
 }
 
 .middle {
 	margin: 0 auto;
+	margin-bottom: 100px;
 	text-align: center;
 	width: 30%;
 }
@@ -147,4 +148,10 @@ a.get-involved {
 .middle img {
 	height: 200px;
 	width: 150px;
+}
+
+footer img {
+	height: 250px;
+	width: 100%;
+	object-fit: cover;
 }
