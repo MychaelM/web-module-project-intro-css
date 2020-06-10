@@ -112,9 +112,24 @@ a.get-involved {
 #header-txt {
 	border: 5px solid black;
 	display: inline-block;
+	margin: 0 auto;
+	/* padding: 0 100px; */
+
 }
 
 #header-txt h1 {
 	font-size: 3.5rem;
-	padding 10px;
+	padding-bottom: 5%;
+	text-align: center;
+}
+
+.container {
+	margin: 30px 50px;
+	height: 300px;
+	width: auto;
+}
+
+.about {
+	line-height: 1.2;
+	margin: 0 50px;
 }
